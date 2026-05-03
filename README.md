@@ -38,8 +38,9 @@ This project focuses on analyzing the stock performance of major IT companies â€
 ##  Data Source
 Data collected from Yahoo Finance (last 3 years)
 
-## ðŸ“¸ Dashboard Preview
+## Dashboard Preview
 <img width="1311" height="736" alt="image" src="https://github.com/user-attachments/assets/2a44f9b7-3e80-4372-8e18-e8d4700a80f6" />
+
 
 
 Demo video(https://github.com/bora23-04/Stock-Performance-Analysis/blob/main/st.mp4)
